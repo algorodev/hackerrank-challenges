@@ -1,4 +1,5 @@
 const { solveMeFirst } = require('./solve-me-first')
+
 describe('Solve Me First Challenge', () => {
 	it('should return the sum of two positive integers', () => {
 		const result = solveMeFirst(3, 5)
