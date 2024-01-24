@@ -11,3 +11,5 @@ Programming Challenges solved using TypeScript.
 - A Very Big Sum _<span style="color: green;"><< Easy >></span>_
 - Diagonal Difference _<span style="color: green;"><< Easy >></span>_
 - Plus Minus _<span style="color: green;"><< Easy >></span>_
+- Staircase _<span style="color: green;"><< Easy >></span>_
+- Mini-Max Sum _<span style="color: green;"><< Easy >></span>_
