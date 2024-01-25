@@ -1,3 +1,3 @@
-const aVeryBigSum = (ar) => ar.reduce((acc, current) => acc + current, 0)
+const aVeryBigSum = (arr) => arr.reduce((acc, current) => acc + current, 0)
 
 module.exports = { aVeryBigSum }
