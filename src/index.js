@@ -1,7 +1,7 @@
-const { solveMeFirst } = require('./algorithms/solve-me-first/solve-me-first')
+const { solveMeFirst } = require('./algorithms/solve-me-first/solve-me-first.js')
 const { simpleArraySum } = require('./algorithms/simple-array-sum/simple-array-sum')
 const { compareTheTriplets } = require('./algorithms/compare-the-triplets/compare-the-triplets')
-const { aVeryBigSum } = require('./algorithms/a-very-big-sum/a-very-big-sum')
+import aVeryBigSum from './algorithms/a-very-big-sum/a-very-big-sum.js'
 const { diagonalDifference } = require('./algorithms/diagonal-difference/diagonal-difference')
 const { plusMinus } = require('./algorithms/plus-minus/plus-minus')
 const { staircase } = require('./algorithms/staircase/staircase')
