@@ -2,6 +2,7 @@
 
 Programming Challenges solved using TypeScript.
 
+## Topics
 - [Algorithms](#algorithms)
 
 ## Algorithms
