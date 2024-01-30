@@ -1,4 +1,4 @@
-const { aVeryBigSum } = require('./a-very-big-sum')
+import aVeryBigSum from './a-very-big-sum.js'
 
 describe('Simple Array Sum Challenge', () => {
 	it('should return the sum of an array of positive integers', () => {

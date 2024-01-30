@@ -10,4 +10,4 @@ const compareTheTriplets = (a, b) => {
 	return [aScore, bScore]
 }
 
-module.exports = { compareTheTriplets }
+export default compareTheTriplets

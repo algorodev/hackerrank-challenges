@@ -1,4 +1,4 @@
-const { timeConversion } = require('./time-conversion')
+import timeConversion from './time-conversion.js'
 
 describe('Time Conversion Challenge', () => {
 	it('should return the expected hour in 24-hour when given a AM 12-hour time', () => {

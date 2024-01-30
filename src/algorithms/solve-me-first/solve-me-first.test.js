@@ -1,4 +1,4 @@
-const { solveMeFirst } = require('./solve-me-first')
+import solveMeFirst from './solve-me-first.js'
 
 describe('Solve Me First Challenge', () => {
 	it('should return the sum of two positive integers', () => {

@@ -1,4 +1,4 @@
-const { simpleArraySum } = require('./simple-array-sum')
+import simpleArraySum from './simple-array-sum.js'
 
 describe('Simple Array Sum Challenge', () => {
 	it('should return the sum of an array of positive integers', () => {

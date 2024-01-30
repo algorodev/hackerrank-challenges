@@ -9,4 +9,4 @@ const diagonalDifference = (arr) => {
 	return Math.abs(sumDiagonal2 - sumDiagonal1)
 }
 
-module.exports = { diagonalDifference }
+export default diagonalDifference

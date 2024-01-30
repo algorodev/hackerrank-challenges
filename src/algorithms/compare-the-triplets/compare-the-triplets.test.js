@@ -1,4 +1,4 @@
-const { compareTheTriplets } = require('./compare-the-triplets')
+import compareTheTriplets from './compare-the-triplets.js'
 
 describe('Compare The Triplets Challenge', () => {
 	it('should return the expected score', () => {

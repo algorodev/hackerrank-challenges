@@ -13,4 +13,4 @@ const timeConversion = (s) => {
 	return time
 }
 
-module.exports = { timeConversion }
+export default timeConversion

@@ -1,4 +1,4 @@
-const { staircase } = require('./staircase')
+import staircase from './staircase.js'
 
 describe('Staircase Challenge', () => {
 	it('should print a staircase of "#" symbols with spaces in front of each line', () => {

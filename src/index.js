@@ -1,13 +1,13 @@
-const { solveMeFirst } = require('./algorithms/solve-me-first/solve-me-first.js')
-const { simpleArraySum } = require('./algorithms/simple-array-sum/simple-array-sum')
-const { compareTheTriplets } = require('./algorithms/compare-the-triplets/compare-the-triplets')
+import solveMeFirst from './algorithms/solve-me-first/solve-me-first.js'
+import simpleArraySum from './algorithms/simple-array-sum/simple-array-sum.js'
+import compareTheTriplets from './algorithms/compare-the-triplets/compare-the-triplets.js'
 import aVeryBigSum from './algorithms/a-very-big-sum/a-very-big-sum.js'
-const { diagonalDifference } = require('./algorithms/diagonal-difference/diagonal-difference')
-const { plusMinus } = require('./algorithms/plus-minus/plus-minus')
-const { staircase } = require('./algorithms/staircase/staircase')
-const { miniMaxSum } = require('./algorithms/mini-max-sum/mini-max-sum')
-const { birthdayCakeCandles } = require('./algorithms/birthday-cake-candles/birthday-cake-candles')
-const { timeConversion } = require('./algorithms/time-conversion/time-conversion')
+import diagonalDifference from './algorithms/diagonal-difference/diagonal-difference.js'
+import plusMinus from './algorithms/plus-minus/plus-minus.js'
+import staircase from './algorithms/staircase/staircase.js'
+import miniMaxSum from './algorithms/mini-max-sum/mini-max-sum.js'
+import birthdayCakeCandles from './algorithms/birthday-cake-candles/birthday-cake-candles.js'
+import timeConversion from './algorithms/time-conversion/time-conversion.js'
 
 console.log('Solve Me First Challenge')
 console.log('------------------------')

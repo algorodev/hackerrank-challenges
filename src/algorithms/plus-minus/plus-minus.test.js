@@ -1,4 +1,4 @@
-const { plusMinus } = require('./plus-minus')
+import plusMinus from './plus-minus.js'
 
 describe('Plus Minus Challenge', () => {
 	it('should calculate the ratio of positive, negative, and zero values in an array of integers', () => {

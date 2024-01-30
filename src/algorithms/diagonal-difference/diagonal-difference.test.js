@@ -1,4 +1,4 @@
-const { diagonalDifference } = require('./diagonal-difference')
+import diagonalDifference from './diagonal-difference.js'
 
 describe('Diagonal Difference Challenge', () => {
 	it('should calculate the diagonal difference of a square matrix with positive numbers', () => {

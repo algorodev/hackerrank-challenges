@@ -13,4 +13,4 @@ const birthdayCakeCandles = (arr) => {
 	return maxCount
 }
 
-module.exports = { birthdayCakeCandles }
+export default birthdayCakeCandles

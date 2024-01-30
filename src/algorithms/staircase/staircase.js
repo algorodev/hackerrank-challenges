@@ -7,4 +7,4 @@ const staircase = (n) => {
 	}
 }
 
-module.exports = { staircase }
+export default staircase

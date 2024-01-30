@@ -1,4 +1,4 @@
-const { birthdayCakeCandles } = require('./birthday-cake-candles')
+import birthdayCakeCandles from './birthday-cake-candles.js'
 
 describe('Birthday Cake Candles Challenge', () => {
 	it('should return the tallest candle count when receiving positive numbers', () => {

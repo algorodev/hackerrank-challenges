@@ -12,4 +12,4 @@ const plusMinus = (arr) => {
 	console.log(zeroCount / arr.length)
 }
 
-module.exports = { plusMinus }
+export default plusMinus
