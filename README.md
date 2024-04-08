@@ -9,6 +9,7 @@
 ### Algorithms
 
 - [Warmup](#warmup)
+- [Implementation](#implementation)
 
 ### Warmup
 
@@ -25,3 +26,8 @@
 | 9  | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)             |         [Solution](https://github.com/algorodev/hackerrank-challenges/blob/main/src/topics/algorithms/subdomains/warmup/time-conversion/time-conversion.js)          |                                                                                                                                                       |    Easy    |   15   |      |
 | 10 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) |   [Solution](https://github.com/algorodev/hackerrank-challenges/blob/main/src/topics/algorithms/subdomains/warmup/birthday-cake-candles/birthday-cake-candles.js)    |                                                                                                                                                       |    Easy    |   10   |      |
 
+### Implementation
+
+| # | Title                                                             |                                                                      JavaScript Solution                                                                      | Python Solution | Difficulty | Points | Note |
+|---|-------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|-----------------|:----------:|:------:|------|
+| 1 | [Grading Students](https://www.hackerrank.com/challenges/grading) | [Solution](https://github.com/algorodev/hackerrank-challenges/blob/main/src/topics/algorithms/subdomains/implementation/grading-students/grading-students.js) |                 |    Easy    |   10   |      |     
