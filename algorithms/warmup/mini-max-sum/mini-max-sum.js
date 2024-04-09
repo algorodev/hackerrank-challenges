@@ -13,5 +13,3 @@ const miniMaxSum = (arr) => {
 
 	console.log(minSum, maxSum)
 }
-
-export default miniMaxSum

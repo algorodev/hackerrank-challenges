@@ -12,5 +12,3 @@ const timeConversion = (s) => {
 
 	return time
 }
-
-export default timeConversion

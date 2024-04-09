@@ -12,5 +12,3 @@ const birthdayCakeCandles = (arr) => {
 
 	return maxCount
 }
-
-export default birthdayCakeCandles

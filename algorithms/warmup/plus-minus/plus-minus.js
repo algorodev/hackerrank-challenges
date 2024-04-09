@@ -11,5 +11,3 @@ const plusMinus = (arr) => {
 	console.log(negativeCount / arr.length)
 	console.log(zeroCount / arr.length)
 }
-
-export default plusMinus

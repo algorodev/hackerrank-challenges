@@ -6,5 +6,3 @@ const staircase = (n) => {
 		console.log(space.repeat(n - i) + symbol.repeat(i))
 	}
 }
-
-export default staircase

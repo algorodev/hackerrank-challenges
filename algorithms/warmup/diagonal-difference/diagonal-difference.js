@@ -8,5 +8,3 @@ const diagonalDifference = (arr) => {
 
 	return Math.abs(sumDiagonal2 - sumDiagonal1)
 }
-
-export default diagonalDifference

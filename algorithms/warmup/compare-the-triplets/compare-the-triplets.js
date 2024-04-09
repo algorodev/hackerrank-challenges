@@ -1,4 +1,4 @@
-const compareTheTriplets = (a, b) => {
+const compareTriplets = (a, b) => {
 	let aScore = 0
 	let bScore = 0
 
@@ -9,5 +9,3 @@ const compareTheTriplets = (a, b) => {
 
 	return [aScore, bScore]
 }
-
-export default compareTheTriplets
