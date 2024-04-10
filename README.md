@@ -34,9 +34,10 @@
 | 10 | Warmup         | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) |    [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/warmup/birthday-cake-candles/birthday-cake-candles.js)    |    Easy    |   10   |
 | 11 | Implementation | [Grading Students](https://www.hackerrank.com/challenges/grading)                    |     [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/grading-students/grading-students.js)     |    Easy    |   10   |
 | 12 | Implementation | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)           | [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/apple-and-orange/count-apples-and-oranges.js) |    Easy    |   10   |
-| 13 | Implementation | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)           |       [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/between-two-sets/get-total-x.js)        |    Easy    |   10   |
-| 14 | Implementation | [Number Line Jumps](https://www.hackerrank.com/challenges/number-line-jumps)         |        [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/number-line-jumps/kangaroo.js)         |    Easy    |   10   |
+| 13 | Implementation | [Number Line Jumps](https://www.hackerrank.com/challenges/number-line-jumps)         |        [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/number-line-jumps/kangaroo.js)         |    Easy    |   10   |
+| 14 | Implementation | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)           |       [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/between-two-sets/get-total-x.js)        |    Easy    |   10   |
 | 15 | Implementation | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar)          |        [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/subarray-division/birthday.js)         |    Easy    |   10   |
+| 16 | Implementation | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)     |  [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/divisible-sum-pairs/divisible-sum-pairs.js)  |    Easy    |   10   |
 
 ## Data Structures
 
