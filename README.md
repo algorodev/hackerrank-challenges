@@ -36,6 +36,7 @@
 | 12 | Implementation | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)           | [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/apple-and-orange/count-apples-and-oranges.js) |    Easy    |   10   |
 | 13 | Implementation | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)           |       [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/between-two-sets/get-total-x.js)        |    Easy    |   10   |
 | 14 | Implementation | [Number Line Jumps](https://www.hackerrank.com/challenges/number-line-jumps)         |        [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/number-line-jumps/kangaroo.js)         |    Easy    |   10   |
+| 15 | Implementation | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar)          |        [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/subarray-division/birthday.js)         |    Easy    |   10   |
 
 ## Data Structures
 
