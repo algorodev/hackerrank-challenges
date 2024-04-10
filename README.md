@@ -38,6 +38,7 @@
 | 14 | Implementation | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)           |       [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/between-two-sets/get-total-x.js)        |    Easy    |   10   |
 | 15 | Implementation | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar)          |        [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/subarray-division/birthday.js)         |    Easy    |   10   |
 | 16 | Implementation | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)     |  [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/divisible-sum-pairs/divisible-sum-pairs.js)  |    Easy    |   10   |
+| 17 | Implementation | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)             |      [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/migratory-birds/migratory-birds.js)      |    Easy    |   10   |
 
 ## Data Structures
 
