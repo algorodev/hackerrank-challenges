@@ -39,6 +39,7 @@
 | 15 | Implementation | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar)          |        [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/subarray-division/birthday.js)         |    Easy    |   10   |
 | 16 | Implementation | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)     |  [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/divisible-sum-pairs/divisible-sum-pairs.js)  |    Easy    |   10   |
 | 17 | Implementation | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)             |      [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/migratory-birds/migratory-birds.js)      |    Easy    |   10   |
+| 18 | Implementation | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer) |  [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/day-of-the-programmer/day-of-programmer.js)  |    Easy    |   15   |
 
 ## Data Structures
 
