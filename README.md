@@ -42,6 +42,7 @@
 | 18 | Implementation | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer) |  [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/day-of-the-programmer/day-of-programmer.js)  |    Easy    |   15   |
 | 19 | Implementation | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)                     |         [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/bill-division/bon-appetit.js)         |    Easy    |   10   |
 | 20 | Implementation | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant)                |       [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/sales-by-match/sock-merchant.js)        |    Easy    |   10   |
+| 21 | Implementation | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)                   |          [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/drawing-book/page-count.js)          |    Easy    |   10   |
 
 ## Data Structures
 
