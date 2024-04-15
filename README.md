@@ -52,8 +52,9 @@
 
 ## Mathematics
 
-| # | Subdomain | Challenge | Solution | Difficulty | Points |
-|---|-----------|-----------|:--------:|:----------:|:------:|
+| # | Subdomain    | Challenge                                                            |                                                             Solution                                                             | Difficulty | Points |
+|---|--------------|----------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------:|:----------:|:------:|
+| 1 | Fundamentals | [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws) | [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/data-structures/arrays/maximum-draws/maximum-draws.js) |    Easy    |   5    |
 
 ## Artificial Intelligence
 
