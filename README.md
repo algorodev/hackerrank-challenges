@@ -52,9 +52,10 @@
 
 ## Mathematics
 
-| # | Subdomain    | Challenge                                                            |                                                             Solution                                                             | Difficulty | Points |
-|---|--------------|----------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------:|:----------:|:------:|
-| 1 | Fundamentals | [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws) | [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/data-structures/arrays/maximum-draws/maximum-draws.js) |    Easy    |   5    |
+| # | Subdomain    | Challenge                                                            |                                                              Solution                                                              | Difficulty | Points |
+|---|--------------|----------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------:|:----------:|:------:|
+| 1 | Fundamentals | [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws) | [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/mathematics/fundamentals/maximum-draws/maximum-draws.js) |    Easy    |   5    |
+| 2 | Fundamentals | [Handshake](https://www.hackerrank.com/challenges/handshake)         |     [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/mathematics/fundamentals/handshake/handshake.js)     |    Easy    |   10   |
 
 ## Artificial Intelligence
 
