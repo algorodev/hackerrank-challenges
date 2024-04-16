@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.hackerrank.com/algorodev"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
+<p align="center"><a href="https://www.hackerrank.com/algorodev"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" alt="Hackerrank logo"></a></p>
 <p align="center">Efficient HackerRank solutions by <a href="https://www.hackerrank.com/algorodev">me</a>.</p>
 
 ### Topics
@@ -8,7 +8,7 @@
 - [Mathematics](#mathematics)
 - [Artificial Intelligence](#artificial-intelligence)
 - [C](#c)
-- [C++](#c++)
+- [C++](#cpp)
 - [Java](#java)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -69,7 +69,7 @@
 | # | Subdomain | Challenge | Solution | Difficulty | Points |
 |---|-----------|-----------|:--------:|:----------:|:------:|
 
-## C++
+## CPP
 
 | # | Subdomain | Challenge | Solution | Difficulty | Points |
 |---|-----------|-----------|:--------:|:----------:|:------:|
