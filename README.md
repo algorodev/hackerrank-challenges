@@ -44,6 +44,7 @@
 | 20 | Implementation | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant)                |       [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/sales-by-match/sock-merchant.js)        |    Easy    |   10   |
 | 21 | Implementation | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)                   |          [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/drawing-book/page-count.js)          |    Easy    |   10   |
 | 22 | Implementation | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)           |     [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/counting-valleys/counting-valleys.js)     |    Easy    |   15   |
+| 23 | Implementation | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)           |     [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/electronics-shop/get-money-spent.js)      |    Easy    |   15   |
 
 ## Data Structures
 
