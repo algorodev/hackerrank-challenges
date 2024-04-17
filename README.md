@@ -45,6 +45,7 @@
 | 21 | Implementation | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)                   |          [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/drawing-book/page-count.js)          |    Easy    |   10   |
 | 22 | Implementation | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)           |     [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/counting-valleys/counting-valleys.js)     |    Easy    |   15   |
 | 23 | Implementation | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)           |     [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/electronics-shop/get-money-spent.js)      |    Easy    |   15   |
+| 24 | Implementation | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)           |      [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/cats-and-a-mouse/cats-and-mouse.js)      |    Easy    |   15   |
 
 ## Data Structures
 
