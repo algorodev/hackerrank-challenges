@@ -47,6 +47,7 @@
 | 23 | Implementation | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)           |      [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/electronics-shop/get-money-spent.js)       |    Easy    |   15   |
 | 24 | Implementation | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)           |       [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/cats-and-a-mouse/cats-and-mouse.js)       |    Easy    |   15   |
 | 25 | Implementation | [Cats and a Mouse](https://www.hackerrank.com/challenges/magic-square-forming)       | [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/forming-a-magic-square/forming-magic-square.js) |   Medium   |   20   |
+| 26 | Implementation | [Cats and a Mouse](https://www.hackerrank.com/challenges/picking-numbers)            |       [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/picking-numbers/picking-numbers.js)       |    Easy    |   20   |
 
 ## Data Structures
 
