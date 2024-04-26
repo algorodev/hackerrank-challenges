@@ -50,6 +50,7 @@
 | 26 | Implementation | [Cats and a Mouse](https://www.hackerrank.com/challenges/picking-numbers)                  |        [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/picking-numbers/picking-numbers.js)        |    Easy    |   20   |
 | 27 | Implementation | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) | [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/climbing-the-leaderboard/climbing-leaderboard.js) |   Medium   |   20   |
 | 28 | Implementation | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)                   |          [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/the-hurdle-race/hurdle-race.js)          |    Easy    |   15   |
+| 29 | Implementation | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)           |    [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/designer-pdf-viewer/designer-pdf-viewer.js)    |    Easy    |   20   |
 
 ## Data Structures
 
