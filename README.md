@@ -54,6 +54,7 @@
 | 30 | Implementation | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)                                 |           [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/utopian-tree/utopian-tree.js)           |    Easy    |   20   |
 | 31 | Implementation | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)                           |        [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/angry-professor/angry-professor.js)        |    Easy    |   20   |
 | 32 | Implementation | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies) |  [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/beautiful-days-at-the-movies/beautiful-days.js)  |    Easy    |   15   |
+| 33 | Implementation | [Viral Advertising](https://www.hackerrank.com/challenges/viral-advertising)                       |      [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/viral-advertising/viral-advertising.js)      |    Easy    |   15   |
 
 ## Data Structures
 
