@@ -57,6 +57,7 @@
 | 33 | Implementation | [Viral Advertising](https://www.hackerrank.com/challenges/viral-advertising)                       |       [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/viral-advertising/viral-advertising.js)       |    Easy    |   15   |
 | 34 | Implementation | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner)                      |       [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/save-the-prisoner/save-the-prisoner.js)       |    Easy    |   15   |
 | 35 | Implementation | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)           | [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/circular-array-rotation/circular-array-rotation.js) |    Easy    |   20   |
+| 36 | Implementation | [Circular Array Rotation](https://www.hackerrank.com/challenges/sequence-equation)                 |     [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/sequence-equation/permutation-equation.js)      |    Easy    |   20   |
 
 ## Data Structures
 
