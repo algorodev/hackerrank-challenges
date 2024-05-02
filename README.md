@@ -61,9 +61,10 @@
 
 ## Data Structures
 
-| # | Subdomain | Challenge                                                       |                                                            Solution                                                            | Difficulty | Points |
-|---|-----------|-----------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------:|:----------:|:------:|
-| 1 | Array     | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array) | [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/data-structures/arrays/2d-array-ds/hourglass-sum.js) |    Easy    |   15   |
+| # | Subdomain | Challenge                                                            |                                                             Solution                                                             | Difficulty | Points |
+|---|-----------|----------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------:|:----------:|:------:|
+| 1 | Array     | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array)      |  [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/data-structures/arrays/2d-array-ds/hourglass-sum.js)  |    Easy    |   15   |
+| 2 | Array     | [Dynamic Array](https://www.hackerrank.com/challenges/dyanmic-array) | [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/data-structures/arrays/dynamic-array/dynamic-array.js) |    Easy    |   15   |
 
 ## Mathematics
 
