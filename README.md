@@ -59,6 +59,7 @@
 | 35 | Implementation | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)                  |  [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/circular-array-rotation/circular-array-rotation.js)  |    Easy    |   20   |
 | 36 | Implementation | [Circular Array Rotation](https://www.hackerrank.com/challenges/sequence-equation)                        |      [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/sequence-equation/permutation-equation.js)       |    Easy    |   20   |
 | 37 | Implementation | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited) | [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/jumping-on-the-clouds-revisited/jumping-on-clouds.js) |    Easy    |   15   |
+| 38 | Implementation | [Find Digits](https://www.hackerrank.com/challenges/find-digits)                                          |              [Solution](https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/implementation/find-digits/find-digits.js)              |    Easy    |   25   |
 
 ## Data Structures
 
